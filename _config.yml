@@ -1,7 +1,7 @@
-title: Data Analytics Portfolio Website
-author: Bilal Mustafa
-email: [bmustafa@ualberta.ca](mailto:bmustafa@ualberta.ca)
-description: Bachelor of Science in Physics/Mathematics with a passion in applying data science and modelling to explore and discover novel solutions to pertinent issues.
+title: "Data Analytics Portfolio Website"
+author: "Bilal Mustafa"
+email: "bmustafa@ualberta.ca"
+description: "Bachelor of Science in Physics/Mathematics with a passion in applying data science and modelling to explore and discover novel solutions to pertinent issues."
 theme: minima
 plugins:
   - jekyll-feed
