@@ -7,4 +7,4 @@ All projects were completed using Python and related statistical packages. The a
 2. [Nursing Analysis](Nursing_Analysis.html).
 3. [Diabetes Analysis](Diabetes_Analytics.html).
 4. [SQL Projects](https://github.com/bmustafa225/DS-Portfolio/tree/main/SQL_Project).
-5. [YEG Tableau Dashboard](Tableau.html)
+5. [YEG Tableau Dashboard](Yeg_Tableau.twb)
