@@ -12,6 +12,7 @@ plugins:
   - jekyll-feed
   - jekyll-seo-tag
   - jekyll-avatar
+  - faraday-retry
 defaults:
   - scope:
       path: "_posts"
