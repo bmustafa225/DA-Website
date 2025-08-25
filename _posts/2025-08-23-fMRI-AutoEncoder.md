@@ -1,5 +1,5 @@
 ----
-layout: post
+layout: "post"
 title: "fMRI_Autoencoder"
 ------
 # Data and Study Design
@@ -58,67 +58,6 @@ from nilearn import masking
 from nilearn.masking import unmask,apply_mask
 from nilearn.plotting import plot_roi, plot_anat
 ```
-
-
-```python
-
-```
-
-
-```python
-
-```
-
-
-    ---------------------------------------------------------------------------
-
-    NameError                                 Traceback (most recent call last)
-
-    /tmp/ipython-input-4123536944.py in <cell line: 0>()
-    ----> 1 plt.imshow(brain_vol[88],cmap='bone')
-          2 plt.axis('off')
-          3 plt.show()
-    
-
-    NameError: name 'brain_vol' is not defined
-
-
-
-```python
-
-```
-
-
-```python
-
-```
-
-
-```python
-
-```
-
-
-```python
-z.shape
-```
-
-
-```python
-
-```
-
-
-```python
-
-```
-
-
-```python
-
-```
-
-Now that we see out autoencoder performing reasonably well on a single fMRI image, lets try scaling the operation using LightningModule for the PyLightning library!
 
 
 ```python
@@ -1188,7 +1127,7 @@ plt.show()
 
 
     
-![png](output_36_0.png)
+![png](output_26_0.png)
     
 
 
@@ -1945,7 +1884,7 @@ plt.show()
 
 
     
-![png](output_41_0.png)
+![png](output_31_0.png)
     
 
 
