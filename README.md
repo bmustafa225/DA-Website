@@ -10,4 +10,4 @@ All projects were completed using Python and related statistical packages. The a
 5. YEG Tableau Dashboard.
 
 ## 📄 Download My Resume
-[Click here to download my resume (PDF)](Bilal_Mustafa_Analyst_Resume.pdf)
+[Click here to download my resume (PDF)]("Bilal Analyst Resume.pdf")
