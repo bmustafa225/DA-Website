@@ -1,7 +1,7 @@
 
 <h1>Converge Hackathon Report</h1>
 
-<iframe src="/assets/pdf/Converge_Hackathon_Report.pdf"
+<iframe src="assets/pdf/Converge_Hackathon_Report.pdf"
         width="100%" height="800px" style="border:none;"></iframe>
 
 <p>
