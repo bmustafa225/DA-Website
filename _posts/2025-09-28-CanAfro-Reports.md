@@ -2,7 +2,7 @@
 
 <p>
   <a href="/assets/pdf/CanAfro_Black_MH_Report.pdf" download>
-    Download the Hackathon Report (PDF)
+    Download Black Canadians Mental Health Report (PDF)
   </a>
 </p>
 
@@ -11,7 +11,7 @@
 
 <p>
   <a href="/assets/pdf/CanAfro_Ethiopians_Canada.pdf" download>
-    Download the Hackathon Report (PDF)
+    Download Ethiopians in Canada Report (PDF)
   </a>
 </p>
 
